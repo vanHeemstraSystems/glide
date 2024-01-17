@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+glide
+# Glide
 
-Based on "ABC" at https://www.abc.com/
+Based on "Glide Apps" at https://www.glideapps.com/
+
+Based on "Glide on YouTube" at https://www.youtube.com/@glideapps
 
 ## 100 - Introduction
 
